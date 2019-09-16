@@ -1,3 +1,7 @@
+I made this for a medium artical here is the  link
+
+https://medium.com/@tallan.taven/create-a-simple-grid-templating-get-system-with-hooks-and-styled-components-a4c54edf6253
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
