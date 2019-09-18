@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components'
-
+import texture from './images/download.jpeg'
 const Nav = (props) => {
   return (
     <NavStyles>
@@ -10,7 +10,9 @@ const Nav = (props) => {
 };
 
 const NavStyles = styled.div`
+text-align: center;
 border: 1px solid black; 
+background-image: url(${texture})
 `;
 
 export default Nav;

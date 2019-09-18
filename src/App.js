@@ -15,6 +15,8 @@ function App() {
 }
 
 const AppContainer = styled.div`
+
+margin: 5px;
 background: linear-gradient(to bottom right, aliceblue, black);
 `;
 export default App;
