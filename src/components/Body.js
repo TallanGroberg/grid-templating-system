@@ -73,7 +73,7 @@ grid-template-rows: repeat(1, minmax(100px, 1fr));
 grid-template-columns: repeat(2, 1fr);
     grid-auto-flow: dense;
   }
-  @media only screen and (max-width: 773px) {
+  @media only screen and (max-width: 600px) {
     
 
     
